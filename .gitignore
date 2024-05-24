@@ -1,0 +1,26 @@
+# General
+*.log
+*.pid
+*.swap
+*.cache
+*.backup
+*.tmp
+*.tar.gz
+*.save
+*.diff
+*.patch
+
+# Operating system generated files
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Editor/IDE folders
+.vscode/
+.idea/
+*.sublime-workspace
+
+# Redis data files
+dump.rdb
+*.aof
